@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pratical2</string>
+    <string name="Explore">Exlpore Singapore like you never seen before</string>
+    <string name="ExploreMore">Click on one of the buttons to find out more!</string>
+    <string name="MBS">Marina Bay Sands Singapore</string>
+    <string name="GBTB">Gardens by the Bay</string>
+    <string name="USS">Universal Studios Singapore</string>
+    <string name="SBG">Singapore Botanic Gardens</string>
+    <string name="SF">Singaproe Flyer</string>
+    <string name="SZ">Singapore Zoo</string>
+    <string name="NS">Night Safari</string>
+    <string name="NMS">National Museum of Singapore</string>
+    <string name="FS">Fort Siloso</string>
+    <string name="OR">Orchard Road</string>
+    <string name="MSB_URL">https://www.marinabaysands.com/</string>
+    <string name="MBS_Des">Marina Bay Sands® is a destination for those who appreciate luxury. An integrated resort notable for transforming Singapore’s city skyline, it comprises three 55-storey towers of extravagant hotel rooms and luxury suites with personal butler services.</string>
+    <string name="OR_URL">https://www.orchardroad.org/</string>
+    <string name="OR_Des">Orchard Road’s bustling boulevard is now a retail and dining paradise, with thousands of establishments offering the ultimate lifestyle experience to tourists and locals alike.</string>
+    <string name="FS_URL">https://www.sentosa.com.sg/en/things-to-do/attractions/fort-siloso/</string>
+    <string name="FS_Des"><![CDATA[Fort Siloso is Singapore\'s only well-preserved coastal fort that served as part of the country\'s defences. The on-site military museum contains a treasure trove of WWII memorabilia, including coastal guns, the remains of fortified military structures and tunnels, as well as an interactive video documentary, complete with wax figures of Japanese & British soldiers at the Surrender Chambers.]]></string>
+    <string name="NMS_URL">https://www.nhb.gov.sg/nationalmuseum/</string>
+    <string name="NMS_Des">The National Museum of Singapore is the nation\'s oldest museum that seeks to inspire with stories of Singapore and the world. Its history dates back to 1849, when it opened on Stamford Road as the Raffles Library and Museum</string>
+    <string name="NS_Des">Night Safari, the world’s first nocturnal wildlife park, is a 13-time winner of the Best Attraction category awarded by Singapore Tourism Board. This internationally acclaimed leisure attraction embodies innovation and creativity in products and services, and service quality, thus attracting approximately 1.3 million visitors annually. Close to 900 animals from approximately 100 species (of which almost 41 per cent are threatened) inhabit the 35-hectare park.</string>
+    <string name="NS_URL">https://www.wrs.com.sg/en/night-safari.html</string>
+    <string name="SZ_Des">\"Set in a rainforest environment, Singapore Zoo is renowned for its ‘open concept’, which offers visitors from around the world the opportunity to be inspired by the wonders of nature and wildlife. Animals here live in spacious and landscaped environments, simulating that of their natural habitats. \"</string>
+    <string name="SZ_URL">https://www.wrs.com.sg/en/singapore-zoo.html</string>
+    <string name="SF_URL">https://www.singaporeflyer.com/en</string>
+    <string name="SF_Des">A giant observation wheel that stands amidst the skyscrapers in the Singapore skyline, the Singapore Flyer is the go-to attraction for the most magnificent views of our city.
+A scenic spin on the Singapore Flyer takes you 165 metres above ground, or as high as 42 storeys, as you marvel at the spectacular scenery below.</string>
+    <string name="SBG_Des">As well as being a favourite recreation venue for jogging, dining or just lazing about, the sprawling grounds are also a leading centre for botanical and horticultural research. Highlights include The National Orchid Garden, which boasts the world’s largest orchid display, with over 60,000 plants and orchid plants.</string>
+    <string name="SBG_URL">https://www.nparks.gov.sg/sbg</string>
+    <string name="GBTB_Des">Located by the Marina Bay Waterfront in the heart of Singapore, Gardens by the Bay is a sanctuary for nature lovers and budding horticulturalists alike.Comprising three distinct spaces over 101 hectares–Bay South Garden, Bay East Garden and Bay Central Garden–this oasis of lush greenery has won multiple accolades since it first opened in 2012.</string>
+    <string name="GBTB_URL">https://www.gardensbythebay.com.sg/en.html</string>
+    <string name="USS_Des">Southeast Asia\'s first and only Universal Studios theme park, featuring 24 rides, shows and attractions in seven themed zones.</string>
+    <string name="USS_URL">https://www.rwsentosa.com/en/attractions/universal-studios-singapore/explore</string>
+    <string name="returns">Return</string>
+</resources>
